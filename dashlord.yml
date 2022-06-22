@@ -468,4 +468,4 @@ urls:
       - app
       - production
     repositories:
-      - https://github.com/signaux-faibles
+      - signaux-faibles/signauxfaibles-web
